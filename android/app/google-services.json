@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "954555619682",
-    "project_id": "signinandsignup-7e758",
-    "storage_bucket": "signinandsignup-7e758.firebasestorage.app"
+    "project_number": "128107563044",
+    "firebase_url": "https://loginwithdatabase-fe7ef-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "loginwithdatabase-fe7ef",
+    "storage_bucket": "loginwithdatabase-fe7ef.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:954555619682:android:86f57636da7bc617c7343b",
+        "mobilesdk_app_id": "1:128107563044:android:e46bf4634ee1aa32e470b1",
         "android_client_info": {
           "package_name": "com.example.signupandlogin"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC9RxAn3IzMcPa_md8T4VscD6sHnWVK54g"
+          "current_key": "AIzaSyD2kVPV0gAqByg9SxJ5bqHm6j0u_GtUcxM"
         }
       ],
       "services": {
